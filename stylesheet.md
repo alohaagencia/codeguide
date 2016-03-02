@@ -18,7 +18,7 @@
 - DON'T use leadings zero
 - Lowercase hex values
 - Use shorthand hex values when available
-- DOUBLE QUOTES! Always, serious!
+- SINGLE QUOTES!
 - Avoid specify units for zero
 - Use only 2 levels of nesting (not including pseudo-class like `:hover`)
 
@@ -84,7 +84,7 @@ We don't use `>` selector
 	.author       
 ```
 
-### Variantes
+### Variants
 For variants uses another class
 
 ```stylus
